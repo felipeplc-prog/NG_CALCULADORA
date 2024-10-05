@@ -1,0 +1,9 @@
+/* Adicione estilos personalizados se necessário */
+.container {
+    width: 949px; /* Define a largura a partir de 949 px */
+  }
+  
+  .img-fluid {
+    max-width: 100%;
+    height: auto;
+  }
